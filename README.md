@@ -1,2 +1,2 @@
 # learningAutomation
-Learning purpose
+Learning purpose for automation
